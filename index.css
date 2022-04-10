@@ -1,0 +1,8 @@
+button {
+    outline: none;
+    margin: 10px;
+    border: none;
+    border-radius: 2px;
+    cursor: pointer;
+    user-select: none;
+  }
